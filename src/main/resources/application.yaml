@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: DockerTest-10-2026
+server :
+  port: 9012
