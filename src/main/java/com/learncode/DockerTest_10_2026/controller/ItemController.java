@@ -19,6 +19,7 @@ public class ItemController {
         iList.add(new Item(2,"Desktop",300L));
         iList.add(new Item(3,"Mouse",50L));
         iList.add(new Item(4,"Cycle",15L));
+        iList.add(new Item(5,"MObile",30000L));
 
     }
 
